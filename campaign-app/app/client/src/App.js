@@ -30,7 +30,7 @@ class App extends Component {
       <div className="App">
         <div>
           <div className="topnav">
-            <a href="#home" id="Form_1" onClick={(event) => this.handleClick(event)}>Form_1</a>
+            <a href="new_hires" id="Form_1" onClick={(event) => this.handleClick(event)}>New Hires</a>
             <a href="#news">Form_2</a>
             <a href="#contact">Form_3</a>
             <a href="#about">Form_4</a>
